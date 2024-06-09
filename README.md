@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 tabindex="-1" class="heading-element" dir="auto">🌐 Programming Languages</h3>
-<img src="https://camo.githubusercontent.com/9766d8f24375735440f9e08af9b90ef4d773a69dc287c33105ed031c35fccc50/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e737667" alt="JS" height="50" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="max-width: 100%;">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9766d8f24375735440f9e08af9b90ef4d773a69dc287c33105ed031c35fccc50/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e737667"><img>
-</a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9766d8f24375735440f9e08af9b90ef4d773a69dc287c33105ed031c35fccc50/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e737667"><img src="https://camo.githubusercontent.com/9766d8f24375735440f9e08af9b90ef4d773a69dc287c33105ed031c35fccc50/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e737667" alt="JS" height="50" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="max-width: 100%;"></a>
+<div class="markdown-heading" dir="auto">
+  <h3 tabindex="-1" class="heading-element" dir="auto"🌐 Programming Languages</h3>
